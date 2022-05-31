@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostDataModel", "GhostData
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostDataModel.Tests", "GhostDataModel.Tests\GhostDataModel.Tests.csproj", "{9A1AC366-135B-418A-B31C-7BA203E56B5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhostDataService", "GhostDataService\GhostDataService.csproj", "{491CE52B-3D42-4394-89D1-8C1589EBFD86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{9A1AC366-135B-418A-B31C-7BA203E56B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A1AC366-135B-418A-B31C-7BA203E56B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A1AC366-135B-418A-B31C-7BA203E56B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491CE52B-3D42-4394-89D1-8C1589EBFD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491CE52B-3D42-4394-89D1-8C1589EBFD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491CE52B-3D42-4394-89D1-8C1589EBFD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491CE52B-3D42-4394-89D1-8C1589EBFD86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
